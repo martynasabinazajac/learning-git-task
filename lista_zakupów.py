@@ -3,6 +3,7 @@ lista_zakupów={'piekarnia':['chleb', 'pączek', 'bułki'],'warzywniak':['marche
 print('Lista zakupów')
 lista_zakupów['piekarnia'].append('rogal')
 lista_zakupów['warzywniak'].append('burak')
+lista_zakupów['mięsny']=['karkówka','podudzie','schabowy']
 print(lista_zakupów)
 x=0
 for keys, values in lista_zakupów.items():
