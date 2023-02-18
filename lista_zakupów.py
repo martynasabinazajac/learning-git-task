@@ -11,4 +11,5 @@ for keys, values in lista_zakupów.items():
     values=len(values)
     x+=values
 print(f'W sumie kupuję {[x]} produktów.')
+print("Specjalne pozdrowienia z nowego brancha!")
 
